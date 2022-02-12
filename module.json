@@ -1,0 +1,31 @@
+{
+"name": "kibbles-classes",
+"title": "Kibbles' Classes",
+"description": "The Foundry module for Kibbles' classes.",
+"author": "KibblesTasty",
+"version": "0.8.0",
+"minimumCoreVersion": "0.6.0",
+"compatibleCoreVersion": "9",
+"manifest": "https://raw.githubusercontent.com/KibblesTasty/kibbles-generic-subclasses/main/module.json",
+"download": "https://github.com/KibblesTasty/kibbles-generic-subclasses/releases/download/archive/kibbles-generic-subclasses-main.zip",
+"keywords" : [
+			"classes",
+			"subclasses"
+		],
+"packs": [
+			{
+			"name": "kibbles-classes",
+			"label": "Kibbles' Classes",
+			"system": "dnd5e",
+			"path": "packs/kibbles-classes.db",
+			"entity": "Item",
+			"module": "kibbles-classes"
+			}
+		],
+"authors": [
+			{
+			  "name": "KibblesTasty",
+			  "url": "https://kthomebrew.com"
+			}
+		]
+}
